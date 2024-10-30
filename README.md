@@ -1,4 +1,4 @@
-# MyTodoApp
+# MyTodoList
 
 # Todo App in Python 📝
 
@@ -8,7 +8,7 @@ As I said on my 1st README's hands-on project, I'm starting small. With this Tod
 Hence, I’m diving deeper into coding practice and sharing my journey in becoming proficient in Python.
 That is why, I did choose to start with this project for it helps me work on core programming concepts like data structures, loops, and conditional statements. 
 
-# Benefits of a MyTodo App ?
+# Benefits of a MyTodo List ?
 
 Well, a to-do list can be a powerful productivity tool, if you Folks want to stay organized and focused. 
 Here are some of the main advantages:
